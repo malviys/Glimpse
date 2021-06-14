@@ -1,6 +1,5 @@
-linter: 
+linter:
   rules:
     always_declare_return_types: true
     prefer_const_constructors: true
     null_check_on_nullable_type_parameter: true
-    prefer_double_quotes: true
